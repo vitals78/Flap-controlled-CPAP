@@ -4,3 +4,4 @@ The design of the print cooling fan, controlled by a flap, allows more precise c
 2. The WS7040 fan begins rotating at 18-21% power, which may be excessive in some cases (for example, printing ABS, ASA). In contrast, flap-controlled airflow can start at just 1%.
 3. The rotor’s inertia in the cooling fan has no significant impact, enabling the use of various fan types, including centrifugal blowers, Roborock vacuum cleaner fans, and powerful server fans.
 ![flap](https://github.com/vitals78/Flap-controlled-CPAP/blob/main/FLAP%20.jpg)
+https://www.youtube.com/watch?v=osWIlmkUGPM&t=235s
