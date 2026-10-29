@@ -14,7 +14,10 @@ Since this is a multi-disciplinary project combining software source code with p
 
 All source code, microcontrollers' firmware, and configuration scripts in this repository are licensed under the GNU General Public License v3.0 (GPL-3.0).
 
+* Original Code Author: The software components were originally developed by [Mykhailo (yzheka)](https://github.com/yzheka) and are published in this repository with full authorization and distribution rights.
+
 What this means: You are free to use, study, copy, and modify this software. However, if you modify the code or incorporate it into another project, your derivative work must also be open-source and distributed strictly under the same GPL-3.0 license.
+
 
 ## 2. Mechanics, 3D Models & Drawings (Hardware) -> CC BY-NC-SA 4.0
 
