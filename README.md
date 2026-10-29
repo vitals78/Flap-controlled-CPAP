@@ -25,3 +25,5 @@ All mechanical designs, 3D-printable files (STL/STEP) for ducts, enclosures, and
 * Attribution: You must give appropriate credit by providing a link back to this original repository (vitals78/Flap-controlled-CPAP).
 * Non-Commercial: You may not use these mechanical designs or 3D models for commercial purposes. Selling fully assembled cooling systems, DIY hardware kits, or the model files themselves is strictly prohibited. This project is for personal, non-commercial maker use only.
 * ShareAlike: If you remix, transform, or build upon the duct or flap designs, you must distribute your contributions under the exact same CC BY-NC-SA 4.0 license.
+
+* https://www.printables.com/model/1287521-flap-controlled-cpap
